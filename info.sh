@@ -1,3 +1,3 @@
 echo "Information of Server - CPU"
-echo "Teet"
+echo "Test"
 lscpu
