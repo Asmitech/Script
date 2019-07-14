@@ -1,3 +1,3 @@
 echo "Information of Server - CPU"
-echo "Test Now"
+echo "Test Now Please"
 lscpu
